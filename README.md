@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Davide Fiorentino!</h1>
 <h3 align="center">Junior Front-End developer 💻 </h3>
 
-<p align="center"> * @Angular developer * </p>
+<p align="center"> * @Angular dev * </p>
 
 <details open>
   <summary>🤝 Social</summary>
